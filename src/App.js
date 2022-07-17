@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Edit <code>src/App.js</code> animation testing.
+          Edit <code>src/App.js</code> animation testing works ok local.
         </p>
         <a
           className="App-link"
